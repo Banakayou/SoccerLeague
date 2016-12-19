@@ -1,0 +1,9 @@
+﻿  Ecran.cpp
+c:\users\mao\desktop\soccerleague_schott\soccerleague_schott\ecran.cpp(1617): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mao\desktop\soccerleague_schott\soccerleague_schott\ecran.cpp(1618): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mao\desktop\soccerleague_schott\soccerleague_schott\ecran.cpp(1740): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mao\desktop\soccerleague_schott\soccerleague_schott\ecran.cpp(1741): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mao\desktop\soccerleague_schott\soccerleague_schott\ecran.cpp(1742): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mao\desktop\soccerleague_schott\soccerleague_schott\ecran.cpp(1773): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SoccerLeague_Schott.vcxproj -> C:\Users\Mao\Desktop\SoccerLeague_Schott\Debug\SoccerLeague_Schott.exe
+  SoccerLeague_Schott.vcxproj -> C:\Users\Mao\Desktop\SoccerLeague_Schott\Debug\SoccerLeague_Schott.pdb (Full PDB)
